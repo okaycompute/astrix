@@ -141,13 +141,7 @@ $ OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES python api.py
 ```
 
 ## Screenshots 
-### New scan
-![New Scan](Dashboard/static/new%20scan.png)
 
-### Scan Reports
+### Scan Reports, New Scan, Scan Report Summary and Detailed Report
 ![Scan Reports](Dashboard/static/Reports.png)
 
-![Scan Report Summary](Dashboard/static/scan-report.png)
-
-### Detailed Report
-![Detailed Report](Dashboard/static/Detailed-report.png)
